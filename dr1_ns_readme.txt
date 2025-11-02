@@ -30,7 +30,7 @@ Email: bb25061@qmul.ac.uk
         	* Location: https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset
         	* Files Used: `movies_meta.csv` (Source 1) and `movies_subtitles.csv` (Source 2)
 * Recommended citation for this dataset:
-	* Nitchanun Sinchaikul. (2025). Movie Dialogue Density Dataset. https://github.com/maxxbcc165/Movie-Dialogue-Density-Dataset.
+	* Nitchanun Sinchaikul (2025). Movie Dialogue Density Dataset. https://github.com/maxxbcc165/Movie-Dialogue-Density-Dataset.
 
 
 # DATA & FILE OVERVIEW
