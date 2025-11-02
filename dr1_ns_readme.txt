@@ -44,7 +44,7 @@ Email: bb25061@qmul.ac.uk
 
 ## Description of methods used for collection/generation of data: 
 	* Data was not collected directly from people. This dataset was constructed by downloading and processing two existing data files from the Kaggle source listed above.
-	* Purpose: The main goal is creating a dataset for analyzing language in film, specifically focusing on the "density" of dialogue. This dataset allow to see quantitative analysis of how dialogue volume differs across genres or runtime (e.g., do Action films more likely to have less number in words per minute than Drama films).
+	* Purpose: The main goal is creating a dataset for analyzing language in film, specifically focusing on the "density" of dialogue. This dataset allow to see quantitative analysis of how dialogue volume differs across genres or runtime (e.g., do Action films more likely to have less number in words per minute than Drama films?).
 
 ## Methods for processing the data: 
 * The dataset was generated from the raw source files using an R script. The following steps were performed:
