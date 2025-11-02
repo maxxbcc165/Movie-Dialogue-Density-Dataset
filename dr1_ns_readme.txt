@@ -74,4 +74,4 @@ Email: bb25061@qmul.ac.uk
     	* `TotalWordCount` (integer): The total number of words in the cleaned subtitle text. **What it means: The total volume of dialogue in the movie.
     	* `UniqueWordCount` (integer): The number of unique (distinct) words in the cleaned subtitle text. **What it means: The size of the movie's vocabulary (lexical richness)
     	* `WordsPerMinute` (numeric): A measure of dialogue density (`TotalWordCount / runtime`). **What it means: The "dialogue density" or "pace" of the movie. A high number suggests a "talky" film (e.g., a Drama), while a low number suggests a more visual film (e.g., an Action movie).
-* Missing data codes: Rows with missing or invalid data (e.g., `runtime = 0`) were filtered out. No missing data codes are present in the final file.
+* Missing data codes: The final dataset contains 9 rows with missing values (NA) in the 'genres' column, reflecting missing data from the original source.
