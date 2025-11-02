@@ -1,0 +1,601 @@
+imdb_id	original_title	runtime	genres	TotalWordCount	UniqueWordCount	WordsPerMinute
+tt0110365	Little Odessa	98	Action, Drama	11805	706	120.45918367346938
+tt0045152	Singin' in the Rain	103	Comedy, Music, Romance	28329	1546	275.0388349514563
+tt0024617	The Story of Temple Drake	70	Crime, Drama	5117	942	73.1
+tt1545660	Knights of Badassdom	86	Adventure, Fantasy, Horror, Comedy	20250	1534	235.46511627906978
+tt3522806	Mechanic: Resurrection	99	Action, Crime, Thriller	3976	1011	40.16161616161616
+tt0365938	Winter Solstice	90	Drama	5298	848	58.86666666666667
+tt3076658	Creed	133	Drama	40221	1496	302.4135338345865
+tt2097298	McFarland, USA	128	Drama	8785	1305	68.6328125
+tt3957956	12 Rounds 3: Lockdown	90	Action, Thriller	4463	935	49.58888888888889
+tt0044008	Scrooge	86	Fantasy, Drama	27546	1512	320.30232558139534
+tt3322364	Concussion	123	Drama	27825	1710	226.21951219512195
+tt5325452	Boo! A Madea Halloween	103	Comedy, Horror	55002	1506	534
+tt0038559	Gilda	110	Drama, Romance, Thriller	9555	1311	86.86363636363636
+tt0059540	Once a Thief	107	Crime, Drama, Thriller	9114	792	85.17757009345794
+tt4572514	Patriots Day	133	Crime, Drama, Thriller	40929	2148	307.7368421052632
+tt1560779	The Good Witch's Gift	84	Drama, Family, Fantasy	27543	1346	327.89285714285717
+tt0083449	The Missionary	90	Comedy, Foreign	8338	1497	92.64444444444445
+tt2241351	Money Monster	98	Thriller	45033	1942	459.5204081632653
+tt1681687	The 19th Wife	95	Drama, Mystery, Thriller	16240	1186	170.94736842105263
+tt0044386	Robinson Crusoe	90	Action, Adventure, Drama	11187	929	124.3
+tt2212008	The Bag Man	108	Crime, Drama, Thriller	25281	1185	234.08333333333334
+tt0139654	Training Day	122	Action, Crime, Drama, Thriller	26973	1423	221.09016393442624
+tt1674776	Let Go	95	Comedy	5166	1069	54.37894736842105
+tt1046947	Last Chance Harvey	92	Drama, Comedy, Romance	15430	1137	167.7173913043478
+tt2305051	Wild	115	Drama	4147	936	36.06086956521739
+tt0102395	Mannequin Two: On the Move	95	Fantasy, Comedy, Science Fiction, Romance	16310	1372	171.68421052631578
+tt0085398	Daniel	130	Drama	16359	936	125.83846153846154
+tt0925248	In the Shadow of the Moon	109	Documentary	24003	1504	220.21100917431193
+tt0045187	Stars and Stripes Forever	90	Drama, Music	29229	1728	324.76666666666665
+tt0449018	The Final Season	119	Drama	32838	1553	275.9495798319328
+tt0217869	Unbreakable	106	Science Fiction, Thriller, Drama	19044	1266	179.66037735849056
+tt0029118	The Last Gangster	81	Crime, Drama, Thriller	30009	1316	370.48148148148147
+tt0432021	Resident Evil: Extinction	94	Horror, Action, Science Fiction	9273	873	98.64893617021276
+tt1712573	Strapped	95	Drama	5143	890	54.136842105263156
+tt0098197	Reunion	110	Drama, War	17886	1040	162.6
+tt0087056	A Christmas Carol	100	Drama, Family, Fantasy, TV Movie	10046	1061	100.46
+tt1213825	Love Hurts	95	Comedy, Romance	6899	1171	72.62105263157895
+tt0099348	Dances with Wolves	181	Adventure, Drama, Western	8310	551	45.91160220994475
+tt1313139	The Oranges	90	Comedy, Romance, Drama	18032	1474	200.35555555555555
+tt1426329	Lovelace	92	Drama	8482	1261	92.19565217391305
+tt0417001	Must Love Dogs	98	Romance, Comedy	12976	1913	132.40816326530611
+tt0373883	Halloween	109	Horror	23799	1400	218.3394495412844
+tt0109305	Blue Chips	108	Drama	39954	1678	369.94444444444446
+tt2005374	The Frozen Ground	105	Thriller, Crime	9979	1465	95.03809523809524
+tt0259393	Lantana	121	Crime, Drama, Mystery, Thriller	13994	1094	115.65289256198348
+tt1433108	Faster	98	Crime, Drama, Action, Thriller	12786	1113	130.46938775510205
+tt0139668	True Crime	127	Crime, Drama	14227	1774	112.02362204724409
+tt0208629	Nuremberg	180	TV Movie, Drama	8109	1830	45.05
+tt0120762	Mulan	88	Animation, Family, Adventure	9540	1033	108.4090909090909
+tt4030600	The Bye Bye Man	96	Horror, Thriller	20352	950	212
+tt2951788	Death Comes to Pemberley	180	Romance, Drama, Mystery	6126	1223	34.03333333333333
+tt1850418	To Write Love on Her Arms	118	Drama, Music	8273	1218	70.11016949152543
+tt0117333	Phenomenon	123	Drama, Fantasy, Romance, Science Fiction	37056	1667	301.2682926829268
+tt0096945	Blind Fury	86	Action, Thriller	10296	925	119.72093023255815
+tt1219342	Legend of the Guardians: The Owls of Ga'Hoole	97	Animation, Adventure, Family, Fantasy	23124	1280	238.39175257731958
+tt2186781	Five Dances	83	Drama, Romance	2713	623	32.68674698795181
+tt0134154	Ride with the Devil	138	Drama, War, Romance, Western	11370	1725	82.3913043478261
+tt0461703	Skinwalkers	110	Fantasy, Action, Horror	16326	1011	148.4181818181818
+tt3531824	Nerve	96	Mystery, Adventure, Crime	15386	1072	160.27083333333334
+tt1433775	Garoojigi	120	Comedy, Fantasy, Drama	3695	808	30.791666666666668
+tt4769836	The Do-Over	109	Action, Adventure, Comedy	26232	1886	240.6605504587156
+tt1418754	John Doe: Vigilante	93	Thriller, Crime	16978	1467	182.55913978494624
+tt0979891	Hattrick	110	NA	9006	1447	81.87272727272727
+tt0075200	The Shaggy D.A.	91	Comedy, Family	17440	1542	191.64835164835165
+tt3470600	Sing	108	Animation, Comedy, Drama, Family, Music	26424	1296	244.66666666666666
+tt0327890	Hornblower: Loyalty	125	Adventure, Drama, War	18996	1619	151.968
+tt0045061	The Quiet Man	129	Comedy, Drama, Romance	18282	1445	141.72093023255815
+tt0492044	The Haunting in Connecticut	102	Thriller, Horror	5026	973	49.27450980392157
+tt2004262	Jesse Stone: Benefit of the Doubt	87	Drama, Thriller, Crime, Mystery	14666	1208	168.57471264367817
+tt1795702	Wild Bill	98	Drama	24816	1240	253.22448979591837
+tt1745862	Phil Spector	92	TV Movie, Drama	22420	1713	243.69565217391303
+tt0116261	Eye of God	84	Drama, Thriller, Crime, Mystery	7102	1028	84.54761904761905
+tt0120324	A Simple Plan	121	Drama, Crime, Thriller	12705	1380	105
+tt1262981	World's Greatest Dad	99	Comedy, Romance	9853	1403	99.52525252525253
+tt0050539	The Incredible Shrinking Man	81	Drama, Science Fiction, Thriller	9866	1145	121.80246913580247
+tt0113198	A Goofy Movie	78	Romance, Animation, Family, Comedy, Adventure	20436	1222	262
+tt1056101	My Zinc Bed	75	TV Movie, Drama	28731	1562	383.08
+tt0118900	Gang Related	102	Action, Drama	8134	944	79.74509803921569
+tt0383534	Noel	96	Drama, Romance	19258	1198	200.60416666666666
+tt1596753	Salinger	120	Documentary	11062	1636	92.18333333333334
+tt1784538	Miss Representation	85	Documentary	13352	2388	157.08235294117648
+tt1392190	Mad Max: Fury Road	120	Action, Adventure, Science Fiction, Thriller	11925	892	99.375
+tt1607577	Hulluna Saraan	91	Comedy, Romance	8337	716	91.61538461538461
+tt0844471	Cloudy with a Chance of Meatballs	90	Animation, Comedy, Family	6641	1353	73.78888888888889
+tt0166960	An All Dogs Christmas Carol	73	Animation, Family, Comedy	5471	1588	74.94520547945206
+tt0409965	Five	74	Drama, Foreign	8300	1633	112.16216216216216
+tt0050652	The Lonely Man	88	Action, Western	4807	841	54.625
+tt0262826	Thomas est amoureux	97	Drama, Comedy, Science Fiction, Romance, Foreign	25947	1206	267.49484536082474
+tt0962736	The Young Victoria	105	Drama	8163	1468	77.74285714285715
+tt4006794	Tom and Jerry: The Lost Dragon	57	Animation, Comedy, Family	2809	679	49.280701754385966
+tt0354623	Hellraiser: Hellworld	91	Horror, Thriller	4868	960	53.494505494505496
+tt0049010	Bigger Than Life	95	Drama	9675	1583	101.84210526315789
+tt3000844	Signed, Sealed, Delivered	120	Comedy, Drama, Romance, TV Movie	9511	1475	79.25833333333334
+tt1221207	Demoted	94	Comedy	12851	1730	136.7127659574468
+tt0066017	Loving	89	Drama, Romance	19395	986	217.92134831460675
+tt0869921	Nora Roberts' Angels Fall	90	Drama, Mystery, Romance, Thriller	18030	1421	200.33333333333334
+tt0099674	The Godfather: Part III	162	Crime, Drama, Thriller	1136	283	7.012345679012346
+tt1637706	Our Idiot Brother	90	Comedy, Drama	11835	1642	131.5
+tt0995851	In Her Skin	107	Drama, Thriller	8802	1252	82.26168224299066
+tt0388980	The Greatest Game Ever Played	120	Drama, Family	6019	1159	50.15833333333333
+tt1010271	The Poughkeepsie Tapes	86	Horror, Thriller	17910	1253	208.25581395348837
+tt0355702	Lords of Dogtown	107	Drama	8099	1360	75.69158878504673
+tt0109287	Blank Check	93	Comedy, Family	19864	1345	213.59139784946237
+tt0110857	Police Academy: Mission to Moscow	83	Comedy, Crime	16959	1193	204.32530120481928
+tt0120454	Vinyl	110	Documentary	13242	1429	120.38181818181818
+tt3783958	La La Land	128	Comedy, Drama, Music, Romance	6825	1080	53.3203125
+tt2548208	Poker Night	104	Thriller, Action, Crime	9533	1393	91.66346153846153
+tt2963344	Grace	95	Drama	26409	1562	277.9894736842105
+tt0196708	Lockdown	105	Action, Crime, Drama, Thriller	14610	2101	139.14285714285714
+tt0061770	Hombre	111	Action, Drama, Western	15922	1269	143.44144144144144
+tt0065525	Carry On Up the Jungle	89	Comedy	8823	1489	99.13483146067416
+tt0037722	The Frozen Ghost	61	Fantasy, Mystery	6417	1129	105.19672131147541
+tt0054244	Suspect	81	Drama, Thriller	29937	1465	369.5925925925926
+tt0198781	Monsters, Inc.	92	Animation, Comedy, Family	9435	778	102.55434782608695
+tt0020827	The Divorcee	84	Drama	27585	1297	328.39285714285717
+tt3263430	Stray Dog	98	War, Documentary	13269	907	135.39795918367346
+tt0337692	On the Road	137	Adventure, Drama	28695	1852	209.45255474452554
+tt0318523	Un oso rojo	95	Crime, Drama, Thriller	14127	766	148.70526315789473
+tt0160127	Charlie's Angels	98	Action, Adventure, Comedy, Crime, Thriller	34494	1904	351.9795918367347
+tt0074901	Mikey and Nicky	119	Drama, Action, Crime	10807	1105	90.81512605042016
+tt0991178	Battlestar Galactica: Razor	88	TV Movie, Science Fiction, Action, Drama, Thriller	23409	1536	266.0113636363636
+tt1448762	Open House	88	Drama, Horror, Thriller	8622	772	97.97727272727273
+tt1657283	Honey 2	110	Drama, Music, Comedy	8719	1110	79.26363636363637
+tt3450650	Paul Blart: Mall Cop 2	94	Action, Comedy, Family	3	3	0.031914893617021274
+tt0045911	Inferno	83	Romance, Thriller, Crime, Drama	52	37	0.6265060240963856
+tt1117386	A Fork in the Road	105	Comedy, Crime	13714	895	130.6095238095238
+tt1055369	Transformers: Revenge of the Fallen	150	Science Fiction, Action, Adventure	13855	2306	92.36666666666666
+tt0470000	Wicked Little Things	94	Fantasy, Horror	9354	778	99.51063829787235
+tt4872078	The Intervention	90	Comedy, Drama	9134	1153	101.4888888888889
+tt0319970	Carrie	132	TV Movie, Drama, Horror	6589	992	49.916666666666664
+tt0025748	The Scarlet Pimpernel	97	Action, Adventure, Drama	35853	1883	369.6185567010309
+tt0871427	Babylon 5: The Lost Tales - Voices in the Dark	75	Action, Adventure, Science Fiction	14830	1500	197.73333333333332
+tt0119951	Private Parts	109	Comedy, Drama	35910	2131	329.44954128440367
+tt1720263	The Green	90	Drama	7898	1408	87.75555555555556
+tt0119843	Oscar and Lucinda	132	Drama, Romance	7507	1563	56.871212121212125
+tt0145681	The Bone Collector	118	Drama, Mystery, Thriller, Crime	9279	1622	78.63559322033899
+tt0101492	Body Parts	88	Horror, Thriller	10944	1081	124.36363636363636
+tt0087065	Cloak & Dagger	101	Adventure, Action, Family	8466	965	83.82178217821782
+tt1430626	The Pirates! In an Adventure with Scientists!	88	Animation, Adventure, Family, Comedy	21072	1397	239.45454545454547
+tt0099740	Hardware	93	Horror, Science Fiction, Thriller	4684	993	50.365591397849464
+tt1291580	Behind the Candelabra	118	Drama, Romance	11336	1654	96.0677966101695
+tt0363891	The Pirates of Penzance	123	Music, Comedy, Adventure	17608	1606	143.15447154471545
+tt1935156	Jodorowsky's Dune	90	Documentary, Drama	27621	1573	306.9
+tt0149151	Still Crazy	92	Comedy, Music	7453	1543	81.01086956521739
+tt0083908	Evil Under the Sun	117	Thriller, Crime, Mystery, Drama	13241	2168	113.17094017094017
+tt0086216	Rumble Fish	94	Action, Adventure, Crime, Drama, Romance	13640	982	145.10638297872342
+tt2636522	The Unbelievers	77	Documentary	9995	1770	129.80519480519482
+tt0097904	Monsieur Hire	81	Crime, Drama	5978	716	73.80246913580247
+tt0043045	Three Secrets	98	Drama	31950	1640	326.0204081632653
+tt0075838	The Child	82	Horror	2407	507	29.353658536585368
+tt0910934	Urban Justice	96	Crime, Action, Thriller	7168	1062	74.66666666666667
+tt0069050	The Other	108	Drama, Horror, Mystery	17526	966	162.27777777777777
+tt0043456	The Day the Earth Stood Still	92	Drama, Science Fiction, Thriller	13482	1411	146.54347826086956
+tt0038455	The Dark Mirror	85	Thriller	27291	1316	321.0705882352941
+tt0240510	The Four Feathers	132	War, Adventure, Drama, Romance	12346	1091	93.53030303030303
+tt0081455	Scanners	103	Horror, Science Fiction, Thriller	11014	1053	106.93203883495146
+tt0499157	Slumming	100	Comedy, Drama	5911	1207	59.11
+tt6003368	Diary of a Wimpy Kid: The Long Haul	91	Comedy, Family	16774	1358	184.32967032967034
+tt0119141	Fools Rush In	109	Drama, Comedy, Romance	17192	1336	157.72477064220183
+tt0110168	My Summer Story	85	Family	18334	1493	215.69411764705882
+tt1430811	Deadline	95	Drama, Mystery, Thriller	12724	1794	133.93684210526317
+tt2386231	Ghost Recon: Alpha	24	Action, Science Fiction, Thriller, War	823	332	34.291666666666664
+tt0038166	The Three Caballeros	71	Animation, Family, Music	16620	998	234.08450704225353
+tt0076843	The Turning Point	119	Drama, Romance	17250	1380	144.9579831932773
+tt2016940	Man of Tai Chi	105	Action, Drama	4121	919	39.24761904761905
+tt0119174	The Game	129	Drama, Thriller, Mystery	19594	1701	151.89147286821705
+tt2545118	Blackfish	83	Documentary	10756	1829	129.59036144578315
+tt0049223	Forbidden Planet	98	Adventure, Science Fiction, Action	17416	1910	177.71428571428572
+tt0090793	Captain EO	17	Science Fiction	6552	326	385.4117647058824
+tt0263734	Men with Brooms	102	Comedy	17938	1620	175.86274509803923
+tt1485050	Paris by Night of the Living Dead	12	Horror	486	81	40.5
+tt0216750	Total Western	105	Action, Foreign, Thriller	4984	1033	47.46666666666667
+tt0829459	A Mighty Heart	100	Drama, Thriller	29235	1516	292.35
+tt1989485	Dead Before Dawn 3D	88	Adventure, Comedy, Horror	6585	1340	74.82954545454545
+tt1458503	Respire	90	Thriller, Horror	8966	958	99.62222222222222
+tt0024302	Man's Castle	75	Drama, Romance	8396	1209	111.94666666666667
+tt1837636	Queen of the Desert	128	Drama, History	8732	1810	68.21875
+tt0076868	Valentino	128	Drama, History	24684	2197	192.84375
+tt0055018	The Innocents	100	Horror	18400	1192	184
+tt0023202	Me and My Gal	79	Drama, Comedy, Romance	28137	1339	356.1645569620253
+tt0032851	Northwest Passage	126	Adventure, History, Western, Drama	34356	1739	272.6666666666667
+tt0167059	The Book of Life	63	Comedy, Fantasy	15	5	0.23809523809523808
+tt2140577	The Pretty One	90	Comedy, Drama	14900	1113	165.55555555555554
+tt0074419	Dogs	90	Horror	10296	692	114.4
+tt0385752	The Golden Compass	113	Adventure, Fantasy	24429	1317	216.18584070796462
+tt0095953	Rain Man	133	Drama	28572	1751	214.82706766917292
+tt0060661	The Man Called Flintstone	89	Adventure, Animation, Family, Romance, Mystery	15768	1234	177.1685393258427
+tt0070424	My Ain Folk	55	Drama	5646	537	102.65454545454546
+tt0052805	First Man Into Space	77	Drama, Horror, Science Fiction	21921	1370	284.68831168831167
+tt2120120	Pixels	105	Action, Comedy, Science Fiction	39363	2026	374.8857142857143
+tt0082010	An American Werewolf in London	97	Horror, Comedy	13584	1285	140.04123711340208
+tt1926313	Pyaar Ka Punchnama	149	Drama, Comedy, Romance, Foreign	14243	1552	95.59060402684564
+tt0149624	All the Pretty Horses	117	Drama, Romance, Western	20511	1044	175.30769230769232
+tt0065063	Take the Money and Run	85	Comedy, Crime	16248	1629	191.1529411764706
+tt0490166	London to Brighton	85	Crime, Drama, Thriller	17472	721	205.5529411764706
+tt2102496	Cabin Fever: Patient Zero	91	Horror	12974	1154	142.57142857142858
+tt0088272	Tightrope	115	Mystery, Thriller, Crime, Drama	4449	988	38.68695652173913
+tt0081597	The Taming of the Shrew	126	Drama, Comedy, Romance	15630	1605	124.04761904761905
+tt4073890	Andron	100	Action, Science Fiction	7392	766	73.92
+tt1667903	Thor: Tales of Asgard	77	Adventure, Animation, Action	9322	1149	121.06493506493507
+tt2281069	A Christmas Story 2	86	Comedy	27186	1805	316.1162790697674
+tt0330760	The Pentagon Papers	92	Drama, Thriller, History	13444	2061	146.1304347826087
+tt0469691	Pavee Lackeen: The Traveller Girl	87	Drama, Foreign	7378	1007	84.80459770114942
+tt0099384	Death Spa	88	Horror	5853	1047	66.51136363636364
+tt0349260	Country of My Skull	103	Romance, Drama	11006	1278	106.85436893203884
+tt0092105	Tough Guys	104	Comedy, Crime	9224	1470	88.6923076923077
+tt0048977	The Bad Seed	129	Crime, Drama, Horror, Thriller	16813	2063	130.33333333333334
+tt0261755	Jackpot	97	NA	36303	1592	374.25773195876286
+tt5052448	Get Out	104	Mystery, Thriller, Horror	22398	1278	215.3653846153846
+tt1853563	Foo Fighters: Back and Forth	150	Music, Documentary	24278	1460	161.85333333333332
+tt0117364	The Portrait of a Lady	144	Drama, Romance	21636	1467	150.25
+tt1205489	Gran Torino	116	Drama	9679	1055	83.4396551724138
+tt0067541	Wake in Fright	114	Drama, Thriller	16686	1022	146.3684210526316
+tt1877832	X-Men: Days of Future Past	131	Action, Adventure, Fantasy, Science Fiction	24009	1378	183.27480916030535
+tt4687464	Transpecos	86	Thriller	6876	1073	79.95348837209302
+tt0108230	Strapped	104	Drama, Action	5143	890	49.45192307692308
+tt0784972	The Brothers Solomon	93	Comedy	27081	1441	291.19354838709677
+tt0118661	The Avengers	89	Thriller	144	91	1.6179775280898876
+tt0033288	Young People	79	Drama	13318	1001	168.58227848101265
+tt0099710	The Guardian	92	Drama, Horror, Mystery, Thriller	11608	1626	126.17391304347827
+tt0458525	X-Men Origins: Wolverine	107	Adventure, Action, Thriller, Science Fiction	5653	1074	52.83177570093458
+tt0112454	Bandwagon	103	Comedy, Drama	9833	1385	95.46601941747574
+tt4840666	Looney Tunes: Rabbits Run	73	Comedy, Animation	14576	1296	199.67123287671234
+tt0280720	The Guru	91	Comedy, Romance	9492	1663	104.3076923076923
+tt0085346	Class	98	Comedy, Drama	7659	1356	78.15306122448979
+tt0083735	Perils of the Sentimental Swordsman	87	Action	12528	985	144
+tt0373889	Harry Potter and the Order of the Phoenix	138	Adventure, Fantasy, Family, Mystery	26883	1634	194.80434782608697
+tt0079368	Jesus	117	Drama, History	9004	1443	76.95726495726495
+tt1839642	The Face of Love	92	Drama, Romance	5987	922	65.07608695652173
+tt1320304	30 Days of Night: Dark Days	92	Horror, Thriller	126	37	1.3695652173913044
+tt0067756	Silent Running	89	Adventure, Drama, Science Fiction	7904	801	88.80898876404494
+tt2802144	Kingsman: The Secret Service	130	Crime, Comedy, Action, Adventure	10636	2036	81.81538461538462
+tt0021040	Ladies of Leisure	99	Drama, Romance	18362	1278	185.4747474747475
+tt1641401	Louder Than Words	95	Drama	24402	1339	256.86315789473684
+tt0026275	Devil Dogs of the Air	85	Romance, Action, Comedy, Drama	18850	1756	221.76470588235293
+tt1014801	Pistol Whipped	96	Action, Thriller, Crime, Drama	7215	1171	75.15625
+tt0040068	Bud Abbott Lou Costello Meet Frankenstein	83	Comedy, Horror	22695	1093	273.43373493975906
+tt0086366	Still Smokin	91	Comedy	22380	1295	245.93406593406593
+tt0077766	Jaws 2	116	Horror, Thriller	14850	1143	128.01724137931035
+tt0357507	Boogeyman	89	Thriller, Horror, Drama, Mystery	4345	943	48.82022471910113
+tt1172570	Bronson	92	Drama, Action, Crime	4225	898	45.92391304347826
+tt2234261	Love Punch	94	Comedy	28881	1570	307.24468085106383
+tt0362270	The Life Aquatic with Steve Zissou	119	Adventure, Comedy, Drama	20856	1874	175.26050420168067
+tt3158416	Here Be Dragons	79	Documentary	11314	1601	143.21518987341773
+tt1178665	A Walk in the Woods	104	Adventure, Comedy, Drama	17852	1526	171.65384615384616
+tt1905041	Fast & Furious 6	130	Action, Thriller, Crime	6176	1406	47.50769230769231
+tt0084917	The World According to Garp	136	Comedy	33099	1517	243.375
+tt1292566	How to Be Single	110	Comedy, Romance	25744	1558	234.03636363636363
+tt3139072	Son of Batman	74	Animation, Action, Adventure	6076	869	82.10810810810811
+tt0425151	Jimmy and Judy	99	Action, Crime, Drama, Thriller	8113	1177	81.94949494949495
+tt0118698	Bent	105	Drama, History, Romance	14250	1200	135.71428571428572
+tt2375574	A Field in England	90	Drama, History, Thriller	5038	1193	55.977777777777774
+tt0469111	I'll Always Know What You Did Last Summer	92	Horror	9670	845	105.1086956521739
+tt0110074	The Hudsucker Proxy	111	Comedy, Drama	30114	2067	271.2972972972973
+tt2114058	LEGO Hero Factory: Rise of the Rookies	88	Action, Animation, Family	13868	1302	157.5909090909091
+tt0120029	RocketMan	95	Comedy, Family, Science Fiction	20734	1642	218.25263157894736
+tt3960412	Popstar: Never Stop Never Stopping	86	Comedy, Music	27814	2075	323.4186046511628
+tt2258285	Two Men in Town	120	Crime, Drama	12494	1315	104.11666666666666
+tt0245479	Just a Kiss	89	Comedy, Romance	18600	1504	208.98876404494382
+tt0049516	The Mole People	77	Adventure, Fantasy, Horror, Science Fiction	4928	1096	64
+tt1822311	Sparrows Dance	81	Drama, Comedy, Romance	5692	1052	70.27160493827161
+tt1127886	Here	120	Adventure, Drama, Romance	5152	647	42.93333333333333
+tt2359024	Blue Ruin	90	Crime, Thriller	10470	753	116.33333333333333
+tt1325004	The Twilight Saga: Eclipse	124	Adventure, Fantasy, Drama, Romance	25461	1401	205.33064516129033
+tt0391274	Kismat	143	Drama, Action, Romance, Foreign	16981	1806	118.74825174825175
+tt0034297	Tobacco Road	84	Comedy, Drama	18042	969	214.78571428571428
+tt1179031	Cold in July	109	Drama, Thriller	15366	1065	140.9724770642202
+tt0375785	Gray Matters	96	Comedy, Romance	34626	2132	360.6875
+tt0103112	Toy Soldiers	112	Action, Adventure, Thriller	15992	1368	142.78571428571428
+tt0069976	Dillinger	107	Action, Crime, Drama	7082	1191	66.18691588785046
+tt0027521	The Devil-Doll	78	Horror, Science Fiction	15084	1270	193.3846153846154
+tt1817676	Girl in Progress	93	Comedy, Drama	21084	1291	226.70967741935485
+tt0460742	Chain Reaction	101	Horror, Foreign	6738	1473	66.7128712871287
+tt0829098	And When Did You Last See Your Father?	92	Drama	13732	1214	149.2608695652174
+tt1863201	Dark Circles	87	Horror	3526	753	40.52873563218391
+tt0113535	The Keeper	92	Drama, Thriller, Crime	26841	1452	291.75
+tt0021884	Frankenstein	71	Drama, Horror, Science Fiction	4771	1019	67.19718309859155
+tt0108555	When the Bough Breaks	105	Thriller	14204	1096	135.27619047619046
+tt4799050	Rough Night	101	Drama, Comedy	14695	1885	145.4950495049505
+tt0181322	The Breaks	86	Comedy	11740	1729	136.51162790697674
+tt0067634	The Pursuit of Happiness	93	Drama	14703	870	158.09677419354838
+tt0120793	A Price Above Rubies	117	Drama, Romance	20184	1623	172.51282051282053
+tt0052602	The Bat	80	Horror, Mystery, Thriller	9821	1304	122.7625
+tt0071562	The Godfather: Part II	200	Drama, Crime	22128	1704	110.64
+tt0354690	Lady Death	80	Fantasy, Animation, Horror, Action, Science Fiction	6890	1465	86.125
+tt0375912	Layer Cake	105	Drama, Thriller, Crime	0	0	0
+tt0055256	One, Two, Three	115	Comedy, Family	16355	2603	142.2173913043478
+tt0204137	Animal Factory	94	Crime, Drama	24858	1438	264.4468085106383
+tt0027194	Werewolf of London	75	Fantasy, Horror, Drama	20553	1269	274.04
+tt2186848	Landmine Goes Click	110	Action, Crime, Drama, Thriller	9895	1006	89.95454545454545
+tt0827782	Return to House on Haunted Hill	81	Horror, Thriller	12030	1753	148.5185185185185
+tt3682160	Bad Boys	100	Documentary	11844	1604	118.44
+tt3731562	Kong: Skull Island	118	Action, Adventure, Fantasy	23133	1469	196.04237288135593
+tt0758771	Outlaw	103	Action, Crime, Thriller	28977	1572	281.33009708737865
+tt5090828	Sniper: Ghost Shooter	100	Action, Drama, War	5891	1402	58.91
+tt0065569	Nachts, wenn Dracula erwacht	98	Horror	3252	856	33.183673469387756
+tt0086014	Nightmares	99	Science Fiction, Horror	5633	1003	56.898989898989896
+tt4624424	Storks	87	Adventure, Animation, Comedy, Family	8909	1229	102.40229885057471
+tt0021746	Cimarron	123	Drama, Western	22022	1928	179.04065040650406
+tt0143874	Shattered Image	103	NA	4035	904	39.1747572815534
+tt0066579	Women in Love	131	Drama, Romance	9363	1514	71.47328244274809
+tt0110932	Quiz Show	133	History, Drama	57369	2637	431.34586466165416
+tt0075314	Taxi Driver	114	Crime, Drama	27234	1370	238.89473684210526
+tt0122467	Vostochnaya elegiya	43	Drama	1094	375	25.441860465116278
+tt0433387	Harsh Times	120	Crime, Drama, Thriller, Action	34875	1705	290.625
+tt1217070	Triage	99	Drama, Thriller, Mystery	17373	1267	175.4848484848485
+tt0032910	Pinocchio	88	Animation, Family	25947	1077	294.85227272727275
+tt2375443	The Last Light	93	Thriller, Drama	10080	846	108.38709677419355
+tt1853555	Ex-Girlfriends	72	Drama, Comedy	18226	1150	253.13888888888889
+tt0053604	The Apartment	125	Comedy, Drama, Romance	39096	1794	312.768
+tt3401748	Oddball	95	Family, Adventure	7840	1273	82.52631578947368
+tt0329028	Dumb and Dumberer: When Harry Met Lloyd	85	Comedy	10674	1613	125.5764705882353
+tt1307068	Seeking a Friend for the End of the World	101	Comedy, Drama, Romance, Science Fiction	25977	1499	257.1980198019802
+tt0089731	One Magic Christmas	88	Family, Fantasy	12382	936	140.70454545454547
+tt4044364	Citizenfour	114	Documentary	14540	2282	127.54385964912281
+tt2180016	Iceberg Slim: Portrait of a Pimp	89	NA	35313	2065	396.7752808988764
+tt2872718	Nightcrawler	117	Crime, Drama, Thriller	24066	2003	205.69230769230768
+tt0104409	Hellraiser III: Hell on Earth	93	Horror, Thriller, War	13629	898	146.5483870967742
+tt1124037	Free State of Jones	139	War, Action, Drama, History, Thriller	24798	1276	178.40287769784172
+tt0065537	Change of Habit	93	Drama, Music, Romance	18740	1545	201.50537634408602
+tt2112210	My Awkward Sexual Adventure	98	Comedy, Romance	23242	1662	237.16326530612244
+tt0085542	Fire and Ice	81	Animation, Fantasy, Science Fiction	3648	570	45.03703703703704
+tt0326905	The Great Raid	132	Action, History, War	8368	1539	63.39393939393939
+tt0032484	Foreign Correspondent	120	Mystery, Thriller, War	42279	1918	352.325
+tt0042744	Montana	76	Western, Action, Adventure, Romance	8237	1310	108.38157894736842
+tt0449487	Passengers	93	Drama, Mystery, Thriller, Romance	13784	1251	148.21505376344086
+tt0281870	La Fuga	117	NA	25692	1664	219.5897435897436
+tt0395561	States of Grace	128	NA	7413	1161	57.9140625
+tt3328716	Paper Planes	96	Comedy, Family	17976	1006	187.25
+tt0189553	The Girl Next Door	82	Documentary	24621	1152	300.2560975609756
+tt0021165	Murder!	104	Mystery, Thriller	10667	1479	102.5673076923077
+tt0264508	Dagon	95	Fantasy, Horror, Thriller	6028	766	63.45263157894737
+tt2330322	The Conspiracy	85	Horror, Thriller	5829	1267	68.5764705882353
+tt1956620	Sex Tape	97	Comedy	26076	1546	268.82474226804123
+tt1124035	The Ides of March	101	Drama	10882	1580	107.74257425742574
+tt3108584	Tom and Jerry's Giant Adventure	66	Animation, Family	10332	951	156.54545454545453
+tt0831299	I Really Hate My Job	90	Drama, Comedy	8630	1599	95.88888888888889
+tt0067633	Punishment Park	88	Drama, Thriller	11174	2003	126.97727272727273
+tt1972819	And While We Were Here	83	Drama	10058	1017	121.18072289156626
+tt0069768	Battle for the Planet of the Apes	93	Action, Science Fiction	5149	1096	55.365591397849464
+tt0119925	The Postman	177	Drama, Adventure	17164	1513	96.97175141242938
+tt0078158	Return from Witch Mountain	95	Adventure, Fantasy, Science Fiction, Family	10796	1049	113.6421052631579
+tt0020960	Hell's Angels	127	Action, Drama, History	7318	1162	57.62204724409449
+tt1058017	The Invention of Lying	100	Comedy, Romance, Fantasy	11120	1472	111.2
+tt0035238	Random Harvest	126	Drama, Romance	36369	1690	288.64285714285717
+tt0091306	Jumpin' Jack Flash	100	Romance, Comedy, Thriller	10224	1658	102.24
+tt0022698	Blonde Venus	93	Drama	9119	1261	98.05376344086021
+tt2547584	The Light Between Oceans	133	Drama	7799	1187	58.6390977443609
+tt0090130	Target	117	Drama, Action	16488	1757	140.92307692307693
+tt1168773	Bananaz	92	Documentary, Music	31449	1586	341.8369565217391
+tt1231586	A Good Old Fashioned Orgy	95	Comedy	38226	1880	402.37894736842105
+tt0466460	Khosla Ka Ghosla!	135	Comedy	40659	1604	301.1777777777778
+tt0059160	Eva	100	Drama	16225	2296	162.25
+tt0042788	Night and the City	101	Drama, Thriller	9311	1357	92.18811881188118
+tt0031679	Mr. Smith Goes to Washington	129	Comedy, Drama	42930	2077	332.7906976744186
+tt1176244	Valentino: The Last Emperor	96	Documentary	8000	1374	83.33333333333333
+tt0283426	The Jungle Book 2	72	Family, Animation, Adventure	6360	1038	88.33333333333333
+tt0079756	The Promise	97	Drama, Romance	6893	1258	71.0618556701031
+tt5599918	Pearl	6	Animation	27306	1434	4551
+tt5491994	Planet Earth II	300	Documentary	7244	1127	24.14666666666667
+tt0127536	Elizabeth	124	Drama, History	6216	1212	50.12903225806452
+tt0312004	The Curse of the Were-Rabbit	85	Adventure, Animation, Comedy, Family	4314	1039	50.752941176470586
+tt1078188	Boy A	100	Crime, Drama	14512	1096	145.12
+tt0093818	Radio Days	90	Comedy, Drama	11040	1923	122.66666666666667
+tt2401223	Richard Pryor: Omit the Logic	83	Documentary	34428	1823	414.7951807228916
+tt0472399	The Mechanic	93	Action, Thriller, Crime	9032	1086	97.11827956989248
+tt0368571	Americano	95	Comedy, Drama, Romance	3586	483	37.747368421052634
+tt0110367	Little Women	115	Drama, Romance	40122	1648	348.88695652173914
+tt0055019	The Intruder	84	Drama	26766	1245	318.64285714285717
+tt0058262	The Killers	93	Crime, Drama, Mystery	36132	1628	388.51612903225805
+tt0084504	The Pirate Movie	98	Action, Comedy, Drama, Family, Music, Romance	6464	1390	65.95918367346938
+tt0372532	The Wedding Date	88	Comedy, Romance	6937	1260	78.82954545454545
+tt5232920	Lamerica	43	NA	17280	1179	401.86046511627904
+tt0058100	First Men in the Moon	103	Adventure, Science Fiction	12674	1300	123.04854368932038
+tt0038116	State Fair	96	Music, Romance	34467	1515	359.03125
+tt2084970	The Imitation Game	113	History, Drama, Thriller, War	10099	1671	89.3716814159292
+tt0088766	The Bad Seed	100	Drama, Thriller, Horror, Crime	50439	2063	504.39
+tt2469760	Cam2Cam	91	Thriller, Horror	13629	907	149.76923076923077
+tt1014763	Child 44	137	Crime, Thriller	7522	1220	54.90510948905109
+tt2325518	Beneath	90	Horror, Thriller	6145	830	68.27777777777777
+tt0049125	Davy Crockett and the River Pirates	81	Comedy, Action, Adventure, Family	6784	1309	83.75308641975309
+tt0269341	Two Can Play That Game	90	Comedy, Romance	29700	1461	330
+tt0055534	Too Late Blues	100	Drama	33078	1338	330.78
+tt0109015	3 Ninjas Kick Back	93	Adventure, Action, Comedy, Family	17316	1074	186.19354838709677
+tt4698684	Hunt for the Wilderpeople	101	Drama, Adventure, Comedy	9093	1423	90.02970297029702
+tt3741316	Bare	91	Drama	18675	978	205.21978021978023
+tt2044729	A Glimpse Inside the Mind of Charles Swan III	86	Comedy	13656	1261	158.7906976744186
+tt4131208	natural history	77	NA	12878	1028	167.24675324675326
+tt5012394	Maigret Sets a Trap	120	Drama, Crime, Mystery	6407	1166	53.391666666666666
+tt0042579	House by the River	88	Crime, Drama	7853	1154	89.23863636363636
+tt0077523	Every Which Way But Loose	110	Action, Adventure, Comedy, Romance	14764	1066	134.21818181818182
+tt1976989	Love and Honor	92	Drama, Romance, War	7944	1288	86.34782608695652
+tt1666801	The DUFF	100	Romance, Comedy	27146	1865	271.46
+tt0052218	Some Came Running	137	Drama	31382	1838	229.06569343065692
+tt0062089	Our Mother's House	100	Drama	9072	1161	90.72
+tt0049944	The Werewolf	79	Horror, Science Fiction	9324	1400	118.0253164556962
+tt2279339	Love the Coopers	107	Comedy, Family	33807	1721	315.95327102803736
+tt0021885	A Free Soul	93	Crime, Drama, Romance	10707	1434	115.12903225806451
+tt0443474	Crazy	106	Music, Drama, Romance	11828	1260	111.58490566037736
+tt0102744	Quigley Down Under	119	Romance, Action, Adventure, Western, Drama	10792	1133	90.6890756302521
+tt0062790	The Charge of the Light Brigade	139	Action, Adventure, Drama, History, War	17376	1619	125.00719424460432
+tt0275408	Home Movie	66	Comedy, Documentary	6110	1210	92.57575757575758
+tt1971325	Autómata	110	Thriller, Science Fiction	11446	1079	104.05454545454545
+tt0062138	Point Blank	92	Action, Crime, Drama, Thriller	10122	889	110.02173913043478
+tt0071269	California Split	108	Comedy, Drama	28024	1740	259.48148148148147
+tt2124074	28 Hotel Rooms	82	Drama, Romance	17379	885	211.9390243902439
+tt2247692	2016: Obama's America	87	Documentary	33756	2175	388
+tt0103710	Après l'amour	104	Romance, Drama	7193	1290	69.16346153846153
+tt0013597	Sherlock Holmes	85	Drama, Mystery, Thriller	18992	2191	223.43529411764706
+tt0069090	Pink Floyd: Live at Pompeii	85	Music, Documentary	5920	796	69.6470588235294
+tt3607812	The Sheik	95	Documentary	1716	617	18.063157894736843
+tt0034465	Arabian Nights	86	Adventure, Action, Romance	11394	1149	132.48837209302326
+tt0106639	Cyborg 2	99	Action, Adventure, Science Fiction	9638	1345	97.35353535353535
+tt0457090	The Marksman	95	Action, Adventure, Thriller	630	153	6.631578947368421
+tt1068669	Telstar: The Joe Meek Story	119	Drama, Music	14909	2115	125.28571428571429
+tt2131698	Zaytoun	107	Drama, War, Adventure, Thriller	4640	582	43.36448598130841
+tt0112655	Chain of Command	97	Action, Thriller	11102	983	114.45360824742268
+tt1082601	Fighting	105	Action, Adventure, Crime, Drama, Thriller	10607	1083	101.01904761904763
+tt2400377	Kaksparsh	147	Drama	11415	1572	77.65306122448979
+tt1514425	Mothman	86	Horror, Science Fiction	18348	1097	213.34883720930233
+tt0338109	Homeless to Harvard: The Liz Murray Story	104	Drama, TV Movie	14042	1125	135.01923076923077
+tt0091419	Little Shop of Horrors	94	Horror, Comedy, Music	8622	1584	91.72340425531915
+tt0277622	Cet Amour-là	100	Drama	6632	1191	66.32
+tt1757742	Emergo	80	Horror, Thriller	21906	1212	273.825
+tt1992258	Tower Block	90	Thriller	12124	952	134.7111111111111
+tt0050659	Loving You	101	Drama, Music, Romance	12565	1649	124.4059405940594
+tt0050709	Les Misérables	210	Drama, History	24328	1727	115.84761904761905
+tt1584131	The Last Godfather	100	Action, Comedy, Thriller	18332	1315	183.32
+tt1092082	Passchendaele	114	Drama, Romance, War, History	15936	1447	139.78947368421052
+tt2865120	Ratchet & Clank	94	Action, Adventure, Animation, Family	25536	1764	271.6595744680851
+tt0027067	Sylvia Scarlett	95	Comedy, Drama, Romance	32619	1464	343.3578947368421
+tt0121765	Star Wars: Episode II - Attack of the Clones	142	Adventure, Action, Science Fiction	16376	1537	115.32394366197182
+tt0160611	Ordinary Decent Criminal	93	Comedy, Thriller	10123	1565	108.84946236559139
+tt3824458	Tangerine	87	Comedy, Drama	9960	1218	114.48275862068965
+tt0053084	The Mouse That Roared	83	Comedy	6614	1400	79.6867469879518
+tt0022395	The Skin Game	77	Drama	9629	1354	125.05194805194805
+tt0111149	Shallow Grave	92	Crime, Thriller	17331	1033	188.3804347826087
+tt0372166	Бедный, бедный Павел	103	Drama, Foreign	16761	1277	162.72815533980582
+tt0120906	Zero Effect	116	Comedy, Crime, Mystery, Thriller	18982	1773	163.63793103448276
+tt0090570	84 Charing Cross Road	100	Drama, Romance	16678	1767	166.78
+tt0795927	Дети века	38	NA	9846	1715	259.10526315789474
+tt0066999	Dirty Harry	102	Action, Crime, Thriller	17013	1188	166.7941176470588
+tt0439784	Ricky Gervais Live 2: Politics	68	Comedy	35619	1726	523.8088235294117
+tt0113189	GoldenEye	130	Adventure, Action, Thriller	18693	1588	143.7923076923077
+tt0473367	Jaane Tu... Ya Jaane Na	155	Drama, Comedy, Romance	8690	1495	56.064516129032256
+tt0443435	Autopsy	84	Horror, Thriller	4736	946	56.38095238095238
+tt1727388	The Way Way Back	103	Comedy, Drama	9349	1456	90.76699029126213
+tt0251094	Te jing xin ren lei 2	120	Action	22602	1379	188.35
+tt1436568	Assassination Games	101	Drama, Action, Crime	4975	1029	49.257425742574256
+tt0327850	The Rundown	104	Adventure, Action, Comedy, Thriller	92	73	0.8846153846153846
+tt0236348	Josie and the Pussycats	98	Comedy, Music	27798	1573	283.6530612244898
+tt0043288	Anne of the Indies	81	Adventure, Action, Drama	7461	1411	92.11111111111111
+tt5116560	Thunder Road	13	Drama, Comedy	10809	1416	831.4615384615385
+tt0870211	Battle For Haditha	97	Action, Adventure, Drama, History, War	9366	951	96.55670103092784
+tt0058500	The Pumpkin Eater	118	Drama	28782	1249	243.91525423728814
+tt0108515	The War Room	96	Documentary, History	41391	1981	431.15625
+tt0473075	Prince of Persia: The Sands of Time	116	Adventure, Fantasy, Action, Romance	22536	1444	194.27586206896552
+tt1426357	Carcasses	72	Documentary	1488	458	20.666666666666668
+tt0893532	Kill Theory	82	Horror, Thriller	13340	1020	162.6829268292683
+tt0084788	Things Are Tough All Over	90	Action, Comedy	25518	1247	283.53333333333336
+tt0355954	Riding the Bullet	98	Drama, Horror, Thriller	18819	1075	192.03061224489795
+tt2597760	The Outcasts	95	Comedy	10467	2139	110.17894736842105
+tt3029476	Pressure	91	Drama, Thriller	14938	1198	164.15384615384616
+tt2247476	When the Game Stands Tall	115	Drama	12561	1832	109.22608695652174
+tt0066206	Patton	172	Drama, History, War	25854	2360	150.3139534883721
+tt0083951	The Flight of Dragons	96	Animation, Fantasy, Family	17150	1827	178.64583333333334
+tt0054049	Make Mine Mink	101	Comedy	26217	1638	259.5742574257426
+tt0443456	Breaking and Entering	129	Drama, Romance	32388	1441	251.06976744186048
+tt0062472	The War Wagon	96	Western	9218	912	96.02083333333333
+tt0964185	Tetro	127	Drama, Mystery	5242	886	41.275590551181104
+tt0089880	Rambo: First Blood Part II	96	Action, Adventure, Thriller, War	2933	818	30.552083333333332
+tt0125439	Notting Hill	124	Romance, Comedy, Drama	35384	1820	285.35483870967744
+tt0077952	Movie Movie	105	Comedy	2757	775	26.257142857142856
+tt5442430	Life	103	Horror, Science Fiction, Thriller	12552	1240	121.86407766990291
+tt0009369	Mickey	93	Comedy, Drama	9578	1056	102.98924731182795
+tt2401097	Tracers	94	Action, Crime, Drama	6125	972	65.15957446808511
+tt0033409	Blues in the Night	88	Drama, Music	30618	1560	347.9318181818182
+tt1792647	Cirque du Soleil: Worlds Away	91	Fantasy, Family	1276	260	14.021978021978022
+tt0107497	Malice	107	Drama, Crime	27870	1521	260.4672897196262
+tt0117107	Mulholland Falls	107	Drama, Mystery, Thriller	19740	1140	184.48598130841123
+tt0077318	The Chant of Jimmie Blacksmith	113	Crime, Drama, History	7423	1326	65.69026548672566
+tt1842793	Madagascar	240	Documentary, Foreign	22470	1786	93.625
+tt0371606	Chicken Little	81	Animation, Family, Comedy	6832	1267	84.34567901234568
+tt0126388	Legionnaire	98	Adventure, Drama, Action, History, Thriller	5214	1172	53.204081632653065
+tt0066995	Diamonds Are Forever	120	Adventure, Action, Thriller	22683	1716	189.025
+tt2319580	The Grand Seduction	112	Comedy	29958	1576	267.48214285714283
+tt2364841	Runner Runner	91	Crime, Thriller, Drama	163	103	1.7912087912087913
+tt0373024	Imaginary Heroes	111	Comedy, Drama	4945	930	44.549549549549546
+tt0120213	Slappy and the Stinkers	78	Adventure, Family	10902	1085	139.76923076923077
+tt0064519	Doppelgänger	101	Science Fiction	15634	1253	154.79207920792078
+tt0892791	Shrek Forever After	93	Comedy, Adventure, Fantasy, Animation, Family	21789	1266	234.29032258064515
+tt2180571	The Stranger Within	90	Thriller, Mystery	5544	984	61.6
+tt0472181	The Smurfs	103	Animation, Family, Adventure, Comedy, Fantasy	7526	1349	73.06796116504854
+tt0915463	Jackboots on Whitehall	87	War, Animation, Comedy	6627	1535	76.17241379310344
+tt3655682	Let's Be Evil	83	Thriller	12398	1035	149.3734939759036
+tt0065054	Sweet Charity	149	Comedy, Drama, Music, Romance	12864	1672	86.33557046979865
+tt0080904	Humanoids from the Deep	80	Horror, Science Fiction	7886	922	98.575
+tt0119934	Without Limits	117	Drama	9167	1585	78.35042735042735
+tt0853096	Death of a President	97	Documentary, Drama, Science Fiction	29793	1913	307.1443298969072
+tt0040321	Enchantment	100	Drama, Romance	9932	1342	99.32
+tt0086491	Twilight Zone: The Movie	101	Drama, Fantasy, Horror, Science Fiction, Thriller	16102	1270	159.4257425742574
+tt2420756	Late Phases	95	Horror, Thriller	6408	1119	67.45263157894736
+tt0099851	Into the Woods	153	Drama, Music	40287	1535	263.3137254901961
+tt1068961	Midnight Son	69	Drama, Horror, Action	2931	657	42.47826086956522
+tt1085779	The Hole	92	Thriller, Adventure, Fantasy	15009	793	163.1413043478261
+tt2567026	Alice Through the Looking Glass	113	Family, Fantasy	20652	1195	182.76106194690266
+tt1699114	All Star Superman	76	Animation, Action, Adventure	12764	1521	167.94736842105263
+tt0138097	Shakespeare in Love	122	Romance, History	10336	1801	84.72131147540983
+tt3027716	Crossing Point	92	Action, Thriller	4264	865	46.34782608695652
+tt0181536	Finding Forrester	136	Drama	31497	1539	231.59558823529412
+tt1872818	Liberal Arts	97	Romance, Comedy, Drama	28971	1574	298.6701030927835
+tt2701390	Downhill	95	Comedy	7952	1095	83.70526315789473
+tt0823187	Russell Peters: Outsourced	72	Comedy	13284	1247	184.5
+tt2148433	Public Enemies	177	Drama	16236	1526	91.72881355932203
+tt0118824	Casper: A Spirited Beginning	90	Comedy, Family	7955	1480	88.38888888888889
+tt1027718	Wall Street: Money Never Sleeps	133	Drama, Crime	47925	2357	360.3383458646617
+tt1415269	Immigration Tango	92	Comedy, Romance	29130	1451	316.6304347826087
+tt0083170	Tarzan, the Ape Man	107	Adventure, Action, Comedy	8886	812	83.04672897196262
+tt1017456	Race	161	Drama, Action, Thriller, Crime	10419	1548	64.71428571428571
+tt0120890	Wild Things	108	Thriller	16672	1338	154.37037037037038
+tt1806827	Brutal Relax	15	Action, Comedy	162	60	10.8
+tt0065134	Two Mules for Sister Sara	116	Western	7719	1304	66.54310344827586
+tt0067525	The Omega Man	98	Action, Science Fiction, Thriller	4886	1208	49.857142857142854
+tt3142688	Finding Fanny	102	Romance, Comedy, Drama	15796	1184	154.86274509803923
+tt0365929	Whiteout	101	Action, Crime, Mystery, Thriller	5914	1170	58.554455445544555
+tt1185344	Princess Kaiulani	130	Drama	4940	1118	38
+tt0091187	Heartbreak Ridge	130	Action, Comedy, Drama, War	11090	2015	85.3076923076923
+tt0109403	Chasers	102	Comedy, Romance	17916	1249	175.64705882352942
+tt0087042	Cheech & Chong's The Corsican Brothers	82	Comedy	15274	1360	186.26829268292684
+tt1748016	Brother's Keeper	118	Drama	19690	1351	166.864406779661
+tt0034746	For Me and My Gal	104	Drama, Music, Romance	28137	1339	270.5480769230769
+tt0954327	Demetri Martin. Person.	42	Comedy, TV Movie	12189	1015	290.2142857142857
+tt1924396	La migliore offerta	124	Drama, Romance, Crime, Mystery	11179	1832	90.15322580645162
+tt1537481	Space Chimps 2: Zartog Strikes Back	76	Animation, Family	19245	1351	253.22368421052633
+tt0243554	When Strangers Appear	98	Action, Drama, Mystery, Thriller	10318	854	105.28571428571429
+tt0082776	Ms .45	81	Crime, Drama, Horror, Thriller	7118	801	87.87654320987654
+tt1054486	Futurama: Bender's Game	88	Animation, Comedy, Science Fiction	17544	2044	199.36363636363637
+tt2281587	Muppets Most Wanted	112	Comedy, Adventure, Crime, Family	29163	1526	260.38392857142856
+tt0109374	Captives	100	Drama, Thriller, Mystery, Romance	24840	1175	248.4
+tt0048806	Wichita	81	Western, Action, Romance	10427	1607	128.7283950617284
+tt0095016	Die Hard	131	Action, Thriller	17464	1642	133.31297709923663
+tt0499603	10 Items or Less	81	Comedy, Drama	18624	1067	229.92592592592592
+tt0118548	Absolute Power	121	Crime, Drama, Thriller	13222	1290	109.27272727272727
+tt0024873	Belle of the Nineties	70	Drama, Comedy	15988	1189	228.4
+tt0050805	Operation Mad Ball	105	Comedy, War	14739	1885	140.37142857142857
+tt3778010	Dead Awake	99	Horror, Thriller	5904	1075	59.63636363636363
+tt0074254	Buffalo Bill and the Indians, or Sitting Bull's History Lesson	123	Western, Comedy	24873	1597	202.21951219512195
+tt0042282	Breakthrough	91	War	29133	1482	320.14285714285717
+tt2028530	Paradise Lost 3: Purgatory	121	Documentary	52911	2340	437.2809917355372
+tt0029608	Stella Dallas	106	Drama, Romance	11616	1378	109.58490566037736
+tt2106651	Spectral	108	Thriller, Action, Science Fiction	15750	1436	145.83333333333334
+tt0104321	Gas Food Lodging	101	Drama, Romance	6175	1103	61.13861386138614
+tt0034961	The Lady Is Willing	92	Romance	10549	1687	114.66304347826087
+tt0111127	Serial Mom	95	Comedy, Crime, Horror, Thriller	19989	1375	210.41052631578947
+tt0070464	O Lucky Man!	183	Music, Comedy, Drama, Fantasy	32688	2205	178.62295081967213
+tt0881320	Sanctum	108	Action, Thriller	13106	1084	121.35185185185185
+tt0118842	Chasing Amy	113	Comedy, Drama, Romance	29032	2171	256.92035398230087
+tt2316868	The Better Angels	95	Drama, History	8004	759	84.25263157894737
+tt0069946	The Day of the Dolphin	104	Action, Crime, Drama, Science Fiction, Thriller	7213	1258	69.35576923076923
+tt0302596	A Garfield Christmas Special	30	Animation, Family	5488	755	182.93333333333334
+tt4324274	Batman vs. Robin	72	Action, Adventure, Animation	5762	1143	80.02777777777777
+tt0473464	Cherry Crush	89	Crime, Drama, Mystery, Thriller	7682	1400	86.31460674157303
+tt1068680	Yes Man	104	Comedy	21574	1556	207.44230769230768
+tt1972591	King Arthur: Legend of the Sword	126	Action, Drama, Fantasy	22953	1278	182.16666666666666
+tt1017465	Twitches Too	83	Drama, Family, Fantasy, TV Movie	9848	1234	118.65060240963855
+tt0056194	The Loneliness of the Long Distance Runner	104	Drama	33270	1599	319.90384615384613
+tt0112508	Billy Madison	89	Comedy	23796	1465	267.3707865168539
+tt1082886	The Wackness	99	Drama	19762	1611	199.6161616161616
+tt0005060	Carmen	59	Drama	8422	1251	142.74576271186442
+tt0270288	Confessions of a Dangerous Mind	113	Comedy, Crime, Drama, Romance, Thriller	9535	1677	84.38053097345133
+tt0037075	Ministry of Fear	86	Crime, Drama	19674	1132	228.7674418604651
+tt0096030	Salsa	98	Drama, Music, Romance	17250	842	176.0204081632653
+tt0831916	The Lost	94	Thriller	8490	1366	90.31914893617021
+tt1787731	Jess + Moss	83	Drama, Romance	12453	806	150.03614457831324
+tt0110622	The Naked Gun 33⅓: The Final Insult	83	Comedy, Crime	22698	1649	273.4698795180723
+tt1663662	Pacific Rim	131	Action, Science Fiction, Adventure	9413	1724	71.85496183206106
+tt1032746	Ace of Hearts	100	Drama, Family	16336	1365	163.36
+tt0076639	Roseland	104	Drama, Romance	33582	1287	322.90384615384613
+tt2960930	Extraterrestrial	101	Horror, Science Fiction	12294	966	121.72277227722772
+tt1753383	A Dog's Purpose	100	Comedy, Drama, Family, Fantasy	29280	1175	292.8
+tt0054047	The Magnificent Seven	128	Western	168	45	1.3125
+tt0118647	The Assignment	119	Thriller, Action, Crime	15740	1640	132.2689075630252
+tt1578709	Snowblind	92	Western	5329	998	57.92391304347826
+tt1331025	The September Issue	90	Documentary	10497	1476	116.63333333333334
+tt3733778	Pay the Ghost	94	Horror, Thriller	8278	1481	88.06382978723404
+tt0374853	Malice in Wonderland	87	Fantasy, Drama, Action, Thriller, Crime, Science Fiction, Romance	22844	1566	262.57471264367814
+tt2667918	About Alex	96	Drama	10188	1420	106.125
+tt0092752	The Chipmunk Adventure	77	Adventure, Animation, Family	18852	1051	244.83116883116884
+tt0103786	Beethoven	87	Comedy, Family	5798	1082	66.643678160919535
+tt1535608	Monsterwolf	86	TV Movie, Fantasy, Horror	20934	1269	243.41860465116278
+tt0385057	The Long Weekend	85	Comedy, Romance	18477	1168	217.3764705882353
+tt0118528	12 Angry Men	117	Crime, Drama	46668	1606	398.87179487179486
+tt0328993	Face of Terror	100	Action, Drama, Thriller	13148	1088	131.48
+tt0025464	Manhattan Melodrama	93	Crime, Drama, Romance	23278	1631	250.30107526881721
+tt0099321	Criminal Justice	90	TV Movie, Drama	6527	1317	72.52222222222223
+tt0088847	The Breakfast Club	97	Comedy, Drama	17596	1347	181.4020618556701
+tt0022074	The Smiling Lieutenant	93	Comedy, Music, Romance	8250	864	88.70967741935483
+tt0116778	Kingpin	113	Comedy	26562	1526	235.06194690265488
+tt0327698	The Even Stevens Movie	120	TV Movie, Comedy, Family	10084	1622	84.03333333333333
+tt0036038	War of the Wildcats	102	Western	21622	1683	211.98039215686273
