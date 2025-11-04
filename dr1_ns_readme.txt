@@ -18,7 +18,7 @@ Email: bb25061@qmul.ac.uk
 
 # SHARING/ACCESS INFORMATION
 
-* Licenses/restrictions placed on the data: CC BY-SA 4.0
+* Licenses/restrictions placed on the data: No
 * Links to publications that cite or use the data: None at this time
 * Links to other publicly accessible locations of the data:
 	* https://github.com/maxxbcc165/Movie-Dialogue-Density-Dataset
