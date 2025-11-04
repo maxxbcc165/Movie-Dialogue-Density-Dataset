@@ -1,4 +1,4 @@
-This readme file was generated on [2025-11-02] by [Nitchanun Sinchaikul]
+This readme file was generated on 2025-11-02 by Nitchanun Sinchaikul
 
 
 # GENERAL INFORMATION
